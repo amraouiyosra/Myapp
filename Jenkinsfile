@@ -15,11 +15,7 @@
 		     }
 		
 
-		post {
-                 always {
-                    cleanWs()
-                         }
-                       }
+		
         }
     }
 	     
